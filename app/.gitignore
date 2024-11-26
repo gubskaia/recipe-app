@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /build
 
 # Kotlin specific
@@ -99,3 +100,6 @@ lint/reports/
 lint/reports_debug/
 lint/reports_release/
 lint/checkstyle/
+=======
+/build
+>>>>>>> 9d26deb (first commit)

@@ -3,7 +3,11 @@
 MyRecipeApp is an Android application built using Jetpack Compose, Retrofit, and Kotlin. It allows users to browse a list of recipe categories fetched from an external API and displays them in a grid layout.
 
 ## Screenshots
+<<<<<<< HEAD
 <img src="/app/src/main/res/assets/Screen_recording.gif" alt="Example GIF" width="200" />
+=======
+![Example GIF](/app/src/main/res/assets/Screen_recording.gif)
+>>>>>>> 9d26deb (first commit)
 
 ## Features
 
